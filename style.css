@@ -254,7 +254,7 @@ h3 {
 .button.primary {
   color: var(--white);
   background: var(--navy);
-  width: 240px;
+  width: 240px !important;
 }
 
 .button.secondary {
